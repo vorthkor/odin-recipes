@@ -1,0 +1,20 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: yellowgreen;
+}
+
+h1 {
+    color: antiquewhite;
+}
+
+.center-div {
+    text-align: center;
+}
+
+ul li::marker {
+    color: red;
+}
+
+ol li {
+    padding: 10px;
+}
